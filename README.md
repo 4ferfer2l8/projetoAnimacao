@@ -36,6 +36,10 @@ O personagem escolhido é um **pequeno cavaleiro**: baixinho, 25 anos de idade, 
 | Hit | 4 | Não | Reação ao levar dano. |
 | Dead | 10 | Não | Morte do personagem. |
 
+## Frames das animações
+
+![Frames das animações](frames/Frames.png)
+
 ## Requisitos técnicos
 
 | Item | Pedido | 
